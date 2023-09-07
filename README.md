@@ -3,6 +3,11 @@
 A basic example of using gdx-controllers and gdx-controller-utils to navigate a menu using up/down keys or 
 a controller stick.
 
+Project created with gdx-liftoff adding the extensions:
+    Controllers (extensions)
+    ControllerMapping (third-party)
+    ControllerScene2d (third-party)
+
 
 
 
